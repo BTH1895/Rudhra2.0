@@ -1,20 +1,20 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F045EB&lines=𝙒𝙀𝙇𝘾𝙊𝙈𝙀+𝙏𝙊+𝙍𝙐𝘿𝙃𝙍𝘼+𝙒𝘼+𝘽𝙊𝙏+𝙍𝙀𝙋𝙊.;𝘾𝙍𝙀𝘼𝙏𝙀𝘿+𝘽𝙔+𝙋𝙍𝙄𝙉𝘾𝙀+𝙍𝙐𝘿𝙃;𝙏𝙃𝙄𝙎+𝙄𝙎+𝘼+𝘽𝙂𝙈+𝙎𝙏𝙄𝘾𝙆𝙀𝙍+𝘽𝙊𝙏;𝙒𝙄𝙏𝙃+𝙈𝙊𝙍𝙀+𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎;𝙏𝙃𝘼𝙉𝙆𝙎+𝙁𝙊𝙍+𝙑𝙄𝙎𝙄𝙏𝙄𝙉𝙂+𝙊𝙐𝙍+𝙂𝙄𝙏)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F045EB&lines=𝙒𝙀𝙇𝘾𝙊𝙈𝙀+𝙏𝙊+𝘽𝙏𝙃+𝙒𝘼+𝘽𝙊𝙏+𝙍𝙀𝙋𝙊.;𝘾𝙍𝙀𝘼𝙏𝙀𝘿+𝘽𝙔+𝙎𝙏𝙀𝙑𝙀+𝘽𝙏𝙃 𝙒𝘼 𝙈𝙊𝘿𝘿𝙀𝙍;𝙏𝙃𝙄𝙎+𝙄𝙎+𝘼+𝘽𝙂𝙈+𝙎𝙏𝙄𝘾𝙆𝙀𝙍+𝘽𝙊𝙏;𝙒𝙄𝙏𝙃+𝙈𝙊𝙍𝙀+𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎;𝙏𝙃𝘼𝙉𝙆𝙎+𝙁𝙊𝙍+𝙑𝙄𝙎𝙄𝙏𝙄𝙉𝙂+𝙊𝙐𝙍+𝙂𝙄𝙏)](https://git.io/typing-svg)
 
  </a>
 </p>
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/sJCpf2j.jpeg" width="300" height="300"/>
+  <img border-radius: 15px src="https://postimg.cc/4mKYD74c" width="300" height="300"/>
   <p align="center">
 <a href="#"><img title="Rudhra" src="https://img.shields.io/badge/Rudhra-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/prince-rudh"><img title="Author" src="https://img.shields.io/badge/Author-prince-rudh/Rudhra?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://youtube.com/channel/UCeXjqKkpdS7ODa4SxY7rxbQ"><img title="Author" src="https://img.shields.io/badge/Author-prince-rudh/Rudhra?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/prince-rudh">Prince-Rudh</a> to make it public
+Project created by <a href="https://youtube.com/channel/UCeXjqKkpdS7ODa4SxY7rxbQ">Prince-Rudh</a> to make it public
     <br>
        | © |
         Reserved |
